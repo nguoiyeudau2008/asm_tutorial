@@ -1,0 +1,1284 @@
+{
+	"folder_history":
+	[
+		"/C/Users/khoanx/Desktop/Programming1/Programming/development/DEBUG/private/src/drivers/video",
+		"/M/malware-lab-test/trunk/src/Abnormal/automatic",
+		"/F/Source/Drivers",
+		"/M/malware-lab-test/trunk/src/Webservice/api",
+		"/M/malware-lab-test/trunk/src/Webservice/portal-new",
+		"/M/malware-lab-test/trunk/src/ServerService/Ketluan",
+		"/M/malware-lab-test/trunk/src/ServerService/KetluanWorker",
+		"/C/Users/khoanx/Documents/Source Project/linux",
+		"/M/malware-lab-test/trunk/src",
+		"/C/Users/khoanx/Documents/Source Project"
+	],
+	"last_version": 3083,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 686.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fi",
+						"field	(sample.php)"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"defau",
+						"default_field"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"base",
+						"base64_encode"
+					],
+					[
+						"ioc",
+						"iocname"
+					],
+					[
+						"base64_",
+						"base64_decode"
+					],
+					[
+						"base64",
+						"base64_encode"
+					],
+					[
+						"sig",
+						"signature"
+					],
+					[
+						"argument",
+						"argument_list"
+					],
+					[
+						"temp_file",
+						"temp_file_path"
+					],
+					[
+						"argu",
+						"argument_list"
+					],
+					[
+						"md5",
+						"md5_file"
+					],
+					[
+						"posi",
+						"positives	(file.json)"
+					],
+					[
+						"mal",
+						"malwarename"
+					],
+					[
+						"exc",
+						"except	keyword"
+					],
+					[
+						"Fa",
+						"FALSE"
+					],
+					[
+						"flag",
+						"flag_sort"
+					],
+					[
+						"searc",
+						"search_all"
+					],
+					[
+						"API_SA",
+						"API_SAMPLE_SEARCH"
+					],
+					[
+						"search",
+						"search_all"
+					],
+					[
+						"query",
+						"query_string"
+					],
+					[
+						"selected",
+						"selectedIndex"
+					],
+					[
+						"ord",
+						"order_by"
+					],
+					[
+						"mime",
+						"mimetypes"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 113.0,
+				"last_filter": "menu",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 408.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/M/malware-lab-test/trunk/src/ServerService/KetluanWorker/KetluanWorker.py",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/SFTP.errors.log",
+				"/M/malware-lab-test/trunk/src/ServerService/KetluanWorker/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/linux/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/linux/main.c",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/samples/msample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/config/routes.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/system/core/Router.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/search.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/sample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/samples/sample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/users/muser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/users/user.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/mbase.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/config/constants.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/user/userList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/muser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/mbase.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/system/libraries/User_agent.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/iocList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/musergroup.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/users/groupuser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/users/mgroupuser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/group/groupList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/iocAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/config/user_agents.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/ioc/iocList.php",
+				"/C/Users/khoanx/Documents/Source Project/worker/resultsandbox.py",
+				"/C/Users/khoanx/Documents/Source Project/api/application/config/routes.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-detail.tpl",
+				"/C/Users/khoanx/Documents/Source Project/api/application/controllers/rule/ioc.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/ioc/iocAdd.php",
+				"/C/Users/khoanx/Documents/Source Project/api/application/controllers/samples/sample.php",
+				"/C/Users/khoanx/Documents/Source Project/worker/UploadResult.py",
+				"/C/Users/khoanx/Documents/Source Project/api/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/api/application/models/samples/msample.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/result.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/final/cuckoo/sandboxwrapper/servicewrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/final/cuckoo/utils/submit.py",
+				"/C/Users/khoanx/Documents/Source Project/KetluanWorker/UploadResult.py",
+				"/C/Users/khoanx/Documents/Source Project/worker/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/final/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/getsample.py",
+				"/C/Users/khoanx/Documents/Source Project/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/FileEx/FileEx.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/file.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/putsample.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/sftp-config.json",
+				"/C/Users/khoanx/Desktop/lib/cuckoo/core/plugins.py",
+				"/C/Users/khoanx/Desktop/lib/cuckoo/common/abstracts.py",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/sample/search.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/config/constants.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/models/msample.php",
+				"/C/Users/khoanx/Documents/Source Project/cuckoo/data/android_html/sections/droidmon/content_observer.html",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/header.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/head.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/sample/search.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-edit.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-list.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/assets/global/ioc_js/form.js",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/main.tpl",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/serverwrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/servicewrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/api/application/models/rule/mioc.php",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/test.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/reporting_server.conf",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/test_client.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/demo/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/demo/hihi.py",
+				"/C/Users/khoanx/Downloads/Compressed/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"filtered",
+					"		\n",
+					";\n",
+					"count",
+					"API_GET_ALL_USER",
+					"upload_all",
+					"upload_file_ioc",
+					"upload_all",
+					"ioc_name",
+					"encode",
+					"utf-8",
+					"build_argument",
+					"call_submit_by_package",
+					"dump_file",
+					"call_submit_by_package",
+					"dump_file",
+					"is_android",
+					"print ",
+					"dump_file",
+					"sever",
+					"key",
+					"		\n",
+					"value",
+					"select2me",
+					"');\n",
+					"upload_all",
+					"iocname",
+					"            \n",
+					"init"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 86.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"search.php",
+						"Webservice\\portal-new\\application\\controllers\\sample\\search.php"
+					],
+					[
+						"msample",
+						"Webservice\\api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"sample",
+						"Webservice\\api\\application\\controllers\\samples\\sample.php"
+					],
+					[
+						"route",
+						"Webservice\\api\\application\\config\\routes.php"
+					],
+					[
+						"muser",
+						"Webservice\\api\\application\\models\\users\\muser.php"
+					],
+					[
+						"routes",
+						"Webservice\\api\\application\\config\\routes.php"
+					],
+					[
+						"mbase",
+						"Webservice\\portal-new\\application\\models\\mbase.php"
+					],
+					[
+						"consta",
+						"Webservice\\portal-new\\application\\config\\constants.php"
+					],
+					[
+						"user",
+						"Webservice\\api\\application\\controllers\\users\\user.php"
+					],
+					[
+						"userlist",
+						"Webservice\\portal-new\\application\\controllers\\user\\userList.php"
+					],
+					[
+						"mgour",
+						"Webservice\\api\\application\\models\\users\\mgroupuser.php"
+					],
+					[
+						"group",
+						"Webservice\\api\\application\\controllers\\users\\groupuser.php"
+					],
+					[
+						"users",
+						"Webservice\\portal-new\\application\\config\\user_agents.php"
+					],
+					[
+						"groupuser",
+						"Webservice\\api\\application\\controllers\\users\\groupuser.php"
+					],
+					[
+						"userli",
+						"Webservice\\portal-new\\application\\controllers\\user\\userList.php"
+					],
+					[
+						"user.php",
+						"Webservice\\api\\application\\controllers\\users\\user.php"
+					],
+					[
+						"ioclist",
+						"Webservice\\portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"iocadd",
+						"Webservice\\portal-new\\application\\controllers\\ioc\\iocAdd.php"
+					],
+					[
+						"msa",
+						"api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"ioc.php",
+						"api\\application\\controllers\\rule\\ioc.php"
+					],
+					[
+						"msam",
+						"api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"ioc-de",
+						"portal-new\\application\\views\\ioc\\ioc-detail.tpl"
+					],
+					[
+						"resultsan",
+						"worker\\resultsandbox.py"
+					],
+					[
+						"fileex",
+						"FileEx\\FileEx.py"
+					],
+					[
+						"header.tpl",
+						"portal-new\\application\\views\\main\\header.tpl"
+					],
+					[
+						"head.tpl",
+						"portal-new\\application\\views\\main\\head.tpl"
+					],
+					[
+						"search.tpl",
+						"portal-new\\application\\views\\sample\\search.tpl"
+					],
+					[
+						"head.tp",
+						"portal-new\\application\\views\\main\\head.tpl"
+					],
+					[
+						"header.tp",
+						"portal-new\\application\\views\\main\\header.tpl"
+					],
+					[
+						"main.tpl",
+						"portal-new\\application\\views\\main\\main.tpl"
+					],
+					[
+						"form.js",
+						"portal-new\\application\\views\\assets\\global\\ioc_js\\form.js"
+					],
+					[
+						"ioc-edit",
+						"portal-new\\application\\views\\ioc\\ioc-edit.tpl"
+					],
+					[
+						"ioc-list",
+						"portal-new\\application\\views\\ioc\\ioc-list.tpl"
+					],
+					[
+						"ioclist.php",
+						"portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"sample.php",
+						"api\\application\\controllers\\samples\\sample.php"
+					],
+					[
+						"cons",
+						"portal-new\\application\\config\\constants.php"
+					],
+					[
+						"ioc",
+						"portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"search.",
+						"portal-new\\application\\views\\sample\\search.tpl"
+					],
+					[
+						"mioc",
+						"api\\application\\models\\rule\\mioc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1338.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"IODelete",
+						"IoDeleteSymbolicLink	(entry.c)"
+					],
+					[
+						"FILE_DEVICE",
+						"FILE_DEVICE_SECURE_OPEN	(entry.c)"
+					],
+					[
+						"NtSt",
+						"NtStatus"
+					],
+					[
+						"PDE",
+						"PDEVICE_OBJECT	(functions.c)"
+					],
+					[
+						"NTSTAT",
+						"NTSTATUS"
+					],
+					[
+						"PDr",
+						"PDRIVER_OBJECT"
+					],
+					[
+						"Example_Write",
+						"Example_WriteNeither"
+					],
+					[
+						"_USE_",
+						"__USE_BUFFERED__	(example.h)"
+					],
+					[
+						"Example_Wri",
+						"Example_WriteDirectIO"
+					],
+					[
+						"Example_Un",
+						"Example_UnSupportedFunction	(functions.c)"
+					],
+					[
+						"NTSTA",
+						"NTSTATUS"
+					],
+					[
+						"NtStatu",
+						"NTSTATUS"
+					],
+					[
+						"da",
+						"dashboard"
+					],
+					[
+						"create",
+						"creation_time"
+					],
+					[
+						"fi",
+						"field	(sample.php)"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"defau",
+						"default_field"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"base",
+						"base64_encode"
+					],
+					[
+						"ioc",
+						"iocname"
+					],
+					[
+						"base64_",
+						"base64_decode"
+					],
+					[
+						"base64",
+						"base64_encode"
+					],
+					[
+						"sig",
+						"signature"
+					],
+					[
+						"argument",
+						"argument_list"
+					],
+					[
+						"temp_file",
+						"temp_file_path"
+					],
+					[
+						"argu",
+						"argument_list"
+					],
+					[
+						"md5",
+						"md5_file"
+					],
+					[
+						"posi",
+						"positives	(file.json)"
+					],
+					[
+						"mal",
+						"malwarename"
+					],
+					[
+						"exc",
+						"except	keyword"
+					],
+					[
+						"Fa",
+						"FALSE"
+					],
+					[
+						"flag",
+						"flag_sort"
+					],
+					[
+						"searc",
+						"search_all"
+					],
+					[
+						"API_SA",
+						"API_SAMPLE_SEARCH"
+					],
+					[
+						"search",
+						"search_all"
+					],
+					[
+						"query",
+						"query_string"
+					],
+					[
+						"selected",
+						"selectedIndex"
+					],
+					[
+						"ord",
+						"order_by"
+					],
+					[
+						"mime",
+						"mimetypes"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Enable Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 408.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Documents and Settings/Administrator/Desktop/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/khoanx/Desktop/test.asm",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/x86_x64_asm_build.sublime-build",
+				"/F/Source/Drivers/hello.asm",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/khoanx/Desktop/Programming1/Programming/development/DEBUG/private/src/drivers/video/gdi/functions.c",
+				"/F/Source/Drivers/main.h",
+				"/F/Source/Drivers/functions.c",
+				"/F/Source/Drivers/main.c",
+				"/F/Source/src/drivers/example/functions.c",
+				"/F/Source/src/drivers/example/entry.c",
+				"/F/Source/Drivers/sources",
+				"/F/Source/src/drivers/example/example.h",
+				"/F/Source/Drivers/functions.h",
+				"/F/Source/src/drivers/example/makefile",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/assets/admin/pages/css/login.css",
+				"/F/Source/Drivers/test.c",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/main/footer.tpl",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/dashboard/dashboard.tpl",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/login/login.tpl",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/ioc/ioc-detail.tpl",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/dashboard/dashboard.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/login/login.php",
+				"/F/Source/Drivers/makefile.def",
+				"/C/Users/khoanx/Documents/Downloads/Con khi/Con khi/conkhi.html",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/detail.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/main/main.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/individual/changePass.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/users/muser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/users/user.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/samples/sample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/views/sample/detail.tpl",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/mbase.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/user/userAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/user/userList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/iocAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/iocEditor.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/iocList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/termAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/ioc/termList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/malware/malwareList.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/malware/malwareAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/module/detail.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/module/manage.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/search.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/upload.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/sampleTask.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/sample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/sampleManual.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/analyzing.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/sample/notAnalyzed.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/index.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/mioc.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/mcontainer.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/index.html",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/maccount.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/individual/information.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/group/groupAdd.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/controllers/group/groupList.php",
+				"/M/malware-lab-test/trunk/src/ServerService/KetluanWorker/KetluanWorker.py",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/SFTP.errors.log",
+				"/M/malware-lab-test/trunk/src/ServerService/KetluanWorker/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/linux/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/linux/main.c",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/samples/msample.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/config/routes.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/system/core/Router.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/config/constants.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/muser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/mbase.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/system/libraries/User_agent.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/models/musergroup.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/controllers/users/groupuser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/api/application/models/users/mgroupuser.php",
+				"/M/malware-lab-test/trunk/src/Webservice/portal-new/application/config/user_agents.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/ioc/iocList.php",
+				"/C/Users/khoanx/Documents/Source Project/worker/resultsandbox.py",
+				"/C/Users/khoanx/Documents/Source Project/api/application/config/routes.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-detail.tpl",
+				"/C/Users/khoanx/Documents/Source Project/api/application/controllers/rule/ioc.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/ioc/iocAdd.php",
+				"/C/Users/khoanx/Documents/Source Project/api/application/controllers/samples/sample.php",
+				"/C/Users/khoanx/Documents/Source Project/worker/UploadResult.py",
+				"/C/Users/khoanx/Documents/Source Project/api/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/api/application/models/samples/msample.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/result.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/final/cuckoo/sandboxwrapper/servicewrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/final/cuckoo/utils/submit.py",
+				"/C/Users/khoanx/Documents/Source Project/KetluanWorker/UploadResult.py",
+				"/C/Users/khoanx/Documents/Source Project/worker/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/final/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/getsample.py",
+				"/C/Users/khoanx/Documents/Source Project/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/FileEx/FileEx.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/file.json",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/putsample.py",
+				"/C/Users/khoanx/Documents/Source Project/deverlopment/sftp-config.json",
+				"/C/Users/khoanx/Desktop/lib/cuckoo/core/plugins.py",
+				"/C/Users/khoanx/Desktop/lib/cuckoo/common/abstracts.py",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/controllers/sample/search.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/config/constants.php",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/models/msample.php",
+				"/C/Users/khoanx/Documents/Source Project/cuckoo/data/android_html/sections/droidmon/content_observer.html",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/header.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/head.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/sample/search.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-edit.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/ioc/ioc-list.tpl",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/assets/global/ioc_js/form.js",
+				"/C/Users/khoanx/Documents/Source Project/portal-new/application/views/main/main.tpl",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/serverwrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/servicewrapper.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/checkandroid.py",
+				"/C/Users/khoanx/Documents/Source Project/api/application/models/rule/mioc.php",
+				"/C/Users/khoanx/Desktop/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/test.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sandboxwrapper/reporting_server.conf",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/test_client.py",
+				"/C/Users/khoanx/Documents/Source Project/sandbox/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/demo/sftp-config.json",
+				"/C/Users/khoanx/Documents/Source Project/demo/hihi.py",
+				"/C/Users/khoanx/Downloads/Compressed/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"{\n",
+					"@ 2015",
+					"Untitled.png",
+					"site_url",
+					"delete(",
+					"}\n",
+					"filtered",
+					"		\n",
+					";\n",
+					"count",
+					"API_GET_ALL_USER",
+					"upload_all",
+					"upload_file_ioc",
+					"upload_all",
+					"ioc_name",
+					"encode",
+					"utf-8",
+					"build_argument",
+					"call_submit_by_package",
+					"dump_file",
+					"call_submit_by_package",
+					"dump_file",
+					"is_android",
+					"print ",
+					"dump_file",
+					"sever",
+					"key",
+					"		\n",
+					"value",
+					"select2me",
+					"');\n",
+					"upload_all",
+					"iocname",
+					"            \n",
+					"init"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 86.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 156.0
+			},
+			"pinned_build_system": "Packages/User/x86_x64_asm_build.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,744,-1,105,1361",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"functions",
+						"Drivers\\functions.c"
+					],
+					[
+						"viewde",
+						"portal-new\\application\\views\\ioc\\ioc-detail.tpl"
+					],
+					[
+						"user.php",
+						"api\\application\\controllers\\users\\user.php"
+					],
+					[
+						"sample",
+						"api\\application\\controllers\\samples\\sample.php"
+					],
+					[
+						"muser",
+						"api\\application\\models\\users\\muser.php"
+					],
+					[
+						"search.php",
+						"Webservice\\portal-new\\application\\controllers\\sample\\search.php"
+					],
+					[
+						"msample",
+						"Webservice\\api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"route",
+						"Webservice\\api\\application\\config\\routes.php"
+					],
+					[
+						"routes",
+						"Webservice\\api\\application\\config\\routes.php"
+					],
+					[
+						"mbase",
+						"Webservice\\portal-new\\application\\models\\mbase.php"
+					],
+					[
+						"consta",
+						"Webservice\\portal-new\\application\\config\\constants.php"
+					],
+					[
+						"user",
+						"Webservice\\api\\application\\controllers\\users\\user.php"
+					],
+					[
+						"userlist",
+						"Webservice\\portal-new\\application\\controllers\\user\\userList.php"
+					],
+					[
+						"mgour",
+						"Webservice\\api\\application\\models\\users\\mgroupuser.php"
+					],
+					[
+						"group",
+						"Webservice\\api\\application\\controllers\\users\\groupuser.php"
+					],
+					[
+						"users",
+						"Webservice\\portal-new\\application\\config\\user_agents.php"
+					],
+					[
+						"groupuser",
+						"Webservice\\api\\application\\controllers\\users\\groupuser.php"
+					],
+					[
+						"userli",
+						"Webservice\\portal-new\\application\\controllers\\user\\userList.php"
+					],
+					[
+						"ioclist",
+						"Webservice\\portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"iocadd",
+						"Webservice\\portal-new\\application\\controllers\\ioc\\iocAdd.php"
+					],
+					[
+						"msa",
+						"api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"ioc.php",
+						"api\\application\\controllers\\rule\\ioc.php"
+					],
+					[
+						"msam",
+						"api\\application\\models\\samples\\msample.php"
+					],
+					[
+						"ioc-de",
+						"portal-new\\application\\views\\ioc\\ioc-detail.tpl"
+					],
+					[
+						"resultsan",
+						"worker\\resultsandbox.py"
+					],
+					[
+						"fileex",
+						"FileEx\\FileEx.py"
+					],
+					[
+						"header.tpl",
+						"portal-new\\application\\views\\main\\header.tpl"
+					],
+					[
+						"head.tpl",
+						"portal-new\\application\\views\\main\\head.tpl"
+					],
+					[
+						"search.tpl",
+						"portal-new\\application\\views\\sample\\search.tpl"
+					],
+					[
+						"head.tp",
+						"portal-new\\application\\views\\main\\head.tpl"
+					],
+					[
+						"header.tp",
+						"portal-new\\application\\views\\main\\header.tpl"
+					],
+					[
+						"main.tpl",
+						"portal-new\\application\\views\\main\\main.tpl"
+					],
+					[
+						"form.js",
+						"portal-new\\application\\views\\assets\\global\\ioc_js\\form.js"
+					],
+					[
+						"ioc-edit",
+						"portal-new\\application\\views\\ioc\\ioc-edit.tpl"
+					],
+					[
+						"ioc-list",
+						"portal-new\\application\\views\\ioc\\ioc-list.tpl"
+					],
+					[
+						"ioclist.php",
+						"portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"sample.php",
+						"api\\application\\controllers\\samples\\sample.php"
+					],
+					[
+						"cons",
+						"portal-new\\application\\config\\constants.php"
+					],
+					[
+						"ioc",
+						"portal-new\\application\\controllers\\ioc\\iocList.php"
+					],
+					[
+						"search.",
+						"portal-new\\application\\views\\sample\\search.tpl"
+					],
+					[
+						"mioc",
+						"api\\application\\models\\rule\\mioc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 198.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
